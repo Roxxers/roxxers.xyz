@@ -1,0 +1,5 @@
+baseURL = "https://roxxers.xyz/"
+languageCode = "en-gb"
+title = "roxxers"
+theme = "hugo-base16-theme"
+pygmentsuseclasses = true
